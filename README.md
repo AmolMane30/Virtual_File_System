@@ -1,5 +1,5 @@
 
-# 🗂️ Customised Virtual File System (CVFS)
+# 🗂️ Customized Virtual File System (CVFS)
 
 ![Language](https://img.shields.io/badge/Language-C-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Cross--Platform-green.svg)
@@ -46,6 +46,13 @@ The project provides a **practical understanding of system calls, file handling,
 - Strong grasp of **system programming in C**.  
 - Hands-on experience with **shell design & command interpreter**.  
 - Application of **low-level OS-like logic building**.  
+
+---
+
+## 📂 GitHub Repository  
+**Customized Virtual File System** 
+
+🔗 Repository: [github.com/AmolMane30/Customized_Virtual_File_System](https://github.com/AmolMane30/Customized_Virtual_File_System)  
 
 ---
 
