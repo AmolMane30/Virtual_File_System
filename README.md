@@ -64,7 +64,7 @@ Myexe.exe (Windows)
 ./Myexe    (Linux)
 
 Customized CVFS > create Demo.txt
-Customized CVFS > write Demo.txt "Jay Ganesh"
+Customized CVFS > write Demo.txt "Hello Everyone!!"
 Customized CVFS > read Demo.txt
 Jay Ganesh
 Customized CVFS > ls
